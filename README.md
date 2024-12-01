@@ -1,4 +1,4 @@
-# System 🧠
+# System 
 
 ### [File System](https://github.com/jvilk/BrowserFS)
 
@@ -76,7 +76,7 @@
     - `/?url=/CREDITS.md`
     - `/?app=Browser`
 
-# Apps 🧪
+# Apps 
 
 ### [BoxedWine](http://www.boxedwine.org/) (**_.exe, .zip_**)
 
@@ -204,7 +204,7 @@
 - Playlist & streaming support
 - Visualization support (["Milkdrop"](https://github.com/jberg/butterchurn))
 
-# Games 🎮
+# Games 
 
 ### [ClassiCube](https://www.classicube.net/)
 
@@ -222,7 +222,7 @@
 
 - Port of the classic first-person shooter
 
-# Try It 🚀
+# Try It 
 
 ##### Requirements
 
@@ -248,8 +248,8 @@ yarn serve
 ##### Docker
 
 ```
-docker build -t daedalos .
-docker run -dp 3000:3000 --rm --name daedalos daedalos
+docker build -t alanos .
+docker run -dp 3000:3000 --rm --name alanos alanos
 ```
 
 ##### Notes

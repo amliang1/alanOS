@@ -17,7 +17,7 @@ export const DINO_GAME = {
 export const bookmarks: Bookmark[] = [
   {
     icon: FAVICON_BASE_PATH,
-    name: "daedalOS",
+    name: "alanOS",
     url: "https://dustinbrett.com/",
   },
   {
